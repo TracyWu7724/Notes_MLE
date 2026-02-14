@@ -1,6 +1,7 @@
-# ML-from-scratch
+This repositary includes notes for machine learning engineers. It covers classical machine learning models, deep learning models, reinforcement learning, large language models, small language models, data platform development.
 
-This repositary is for classical machine learning models implementation in python codes. While modern python libraries like sklearn can provide easy implementation, building machine learning algorithms from scratch is still necessary for deeper understanding of underlying mechanism. Hence, both version will be provided as learning notes.
+
+
 
 
 

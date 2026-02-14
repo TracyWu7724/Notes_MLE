@@ -1,0 +1,41 @@
+hotel_id,hotel_name,city,country,price_tier
+1,Hotel_001,Amsterdam,Netherlands,premium
+2,Hotel_002,Vienna,Austria,mid
+3,Hotel_003,Rome,Italy,luxury
+4,Hotel_004,London,United Kingdom,premium
+5,Hotel_005,London,United Kingdom,premium
+6,Hotel_006,Vienna,Austria,budget
+7,Hotel_007,Amsterdam,Netherlands,mid
+8,Hotel_008,Rome,Italy,budget
+9,Hotel_009,Zurich,Switzerland,budget
+10,Hotel_010,Amsterdam,Netherlands,premium
+11,Hotel_011,Berlin,Germany,premium
+12,Hotel_012,Barcelona,Spain,luxury
+13,Hotel_013,Rome,Italy,mid
+14,Hotel_014,Vienna,Austria,mid
+15,Hotel_015,Rome,Italy,mid
+16,Hotel_016,Vienna,Austria,budget
+17,Hotel_017,Berlin,Germany,budget
+18,Hotel_018,Zurich,Switzerland,mid
+19,Hotel_019,Vienna,Austria,budget
+20,Hotel_020,London,United Kingdom,premium
+21,Hotel_021,Berlin,Germany,mid
+22,Hotel_022,Paris,France,premium
+23,Hotel_023,Zurich,Switzerland,premium
+24,Hotel_024,Barcelona,Spain,mid
+25,Hotel_025,Vienna,Austria,premium
+26,Hotel_026,Rome,Italy,premium
+27,Hotel_027,London,United Kingdom,mid
+28,Hotel_028,Vienna,Austria,mid
+29,Hotel_029,Berlin,Germany,premium
+30,Hotel_030,London,United Kingdom,budget
+31,Hotel_031,London,United Kingdom,budget
+32,Hotel_032,Zurich,Switzerland,budget
+33,Hotel_033,Amsterdam,Netherlands,premium
+34,Hotel_034,Berlin,Germany,premium
+35,Hotel_035,Barcelona,Spain,premium
+36,Hotel_036,Amsterdam,Netherlands,premium
+37,Hotel_037,Vienna,Austria,mid
+38,Hotel_038,Vienna,Austria,mid
+39,Hotel_039,Paris,France,budget
+40,Hotel_040,Rome,Italy,budget
